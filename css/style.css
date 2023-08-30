@@ -1,0 +1,18 @@
+img {
+    max-width: 100%;
+}
+
+
+body{
+    text-align: center;
+    padding: 50px 150px 50px 50px;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    border-radius: 10%; 
+    background-color: #917a50;
+    color: white;
+}
+  
